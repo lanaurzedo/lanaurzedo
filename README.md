@@ -4,7 +4,7 @@ Olá, eu sou Lana Urzedo! 👋
 
 Sou apaixonada por tecnologia e estou sempre em busca de aprender coisas novas. Atualmente, trabalho na empresa Sankhya, uma das maiores empresas do Brasil de soluções corporativas de gestão. Estou na equipe de Service Desk, onde tenho a oportunidade de ajudar nossos clientes a resolverem problemas e aprimorarem seus sistemas. 
 
-Além do meu trabalho, estou cursando Análise e Desenvolvimento de Sistemas na UNIUBE, o que me permite aprofundar meus conhecimentos em programação. Estou focada em aprender linguagens como Java, Javascript, HTML e CSS. Também tenho interesse na área de Qualidade de Software (QA) e estou buscando conhecimento nesse campo.
+Além do meu trabalho, estou cursando Análise e Desenvolvimento de Sistemas na UNIUBE, o que me permite aprofundar meus conhecimentos em programação. Estou focada em aprender linguagens como Java, Javascript, HTML e CSS. Também tenho interesse na área de Qualidade de Software (QA) e estou buscando conhecimento nesse campo. Na faculdade também estou tendo a oportunidade de aprender um pouco sobre C e phyton.
 
 ## O que estou aprendendo
 
