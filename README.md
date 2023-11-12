@@ -10,13 +10,11 @@ Além do meu trabalho, estou cursando Análise e Desenvolvimento de Sistemas na 
 
 Neste espaço, compartilho algumas das tecnologias e tópicos que estou estudando e me aprimorando:
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  - **Java**                  
-Estou explorando a programação em Java, aprendendo sobre estruturas de dados, algoritmos e desenvolvimento de aplicações.
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  - **Java**: Estou explorando a programação em Java, aprendendo sobre estruturas de dados, algoritmos e desenvolvimento de aplicações.
 
 
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> - **Javascript**
-Estou mergulhando no mundo do Javascript, aprimorando minhas habilidades em desenvolvimento web, como manipulação do DOM e interatividade em páginas da web.
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> - **Javascript**: Estou mergulhando no mundo do Javascript, aprimorando minhas habilidades em desenvolvimento web, como manipulação do DOM e interatividade em páginas da web.
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> - **HTML e CSS**: Estou trabalhando em minhas habilidades de design web, criando páginas web atraentes e responsivas com HTML e CSS.
 
